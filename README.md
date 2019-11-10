@@ -1,4 +1,4 @@
-LHL Node Skeleton
+Yummi (Project Takeout)
 =========
 
 ## Project Setup
