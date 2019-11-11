@@ -1,5 +1,6 @@
 Yummi (Project Takeout)
 =========
+A single-page app that allows users to place pick up orders at restaurants with a client portal which allows the restaurant to see their order queue.
 
 ## Getting Started
 
